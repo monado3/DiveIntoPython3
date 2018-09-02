@@ -1,0 +1,1 @@
+[Dive into Python3](http://diveintopython3-ja.rdy.jp/index.html)
