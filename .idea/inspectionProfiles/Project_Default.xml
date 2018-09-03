@@ -5,6 +5,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="roman1" />
+          <option value="roman" />
         </list>
       </option>
     </inspection_tool>
